@@ -1,0 +1,13 @@
+.containerList{
+    width: 100%;
+    position: relative;
+}
+.containerList .containerList__btn{
+    margin-bottom: 15px;
+}
+.containerList .table{
+    box-shadow: 0px 10px 20px 0px #ccc;
+}
+.table-light th{
+    font-weight: 300 !important;
+}
